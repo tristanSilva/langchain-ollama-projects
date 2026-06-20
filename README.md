@@ -9,7 +9,7 @@ This repo is where I do that — one working example at a time, running fully lo
 
 ## Why this repo exists
 
-I've spent 25 years automating business processes. Most of that was rule-based — if this, then that, run the bot. What drew me to LangChain is the shift toward *reasoning-based* automation: give the model context, memory, and tools, then let it figure out the steps. That's a different kind of thinking and I wanted to build intuition for it from the ground up.
+I've spent years automating business processes. Most of that was rule-based — if this, then that, run the bot. What drew me to LangChain is the shift toward *reasoning-based* automation: give the model context, memory, and tools, then let it figure out the steps. That's a different kind of thinking and I wanted to build intuition for it from the ground up.
 
 Everything here runs locally. No OpenAI API key, no cloud costs, no data leaving my machine. Just Ollama serving a local model and Python doing the work.
 
@@ -129,7 +129,9 @@ I specifically wanted a setup that works on a mid-range machine without a dedica
 
 ## Background
 
-I'm a Business Process Automation Developer at Nestlé Business Services AOA with 25+ years across RPA (Blue Prism, Automation Anywhere), full-stack development (NestJS, Vue.js, React Native), and enterprise solutions. This repo is part of a deliberate push into AI-powered automation — building the skills to design systems where LLMs handle the reasoning and code handles the execution.
+Currently I am working as a Business Process Automation Developer in the Philippines, with AI Automation Engineering background. 
+I have background using Blue Prism RPA, NestJS, FastAPI, and React Native — mostly enterprise and LGU-facing systems.
+This repo is part of a deliberate push into AI-powered automation — building the skills to design systems where LLMs handle the reasoning and code handles the execution.
 
 If you're coming from an RPA background and trying to figure out where LangChain fits, I hope this repo saves you some of the head-scratching I went through.
 
